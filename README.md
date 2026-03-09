@@ -4,10 +4,6 @@
 
 ![alt text](image.png)
 
-低速下演示：
-
-<video controls src="低速度下演示-1.mp4" title="Title"></video>
-
 ## 文件配置教程
 
 可参考嘉立创天猛星开发板教程：
