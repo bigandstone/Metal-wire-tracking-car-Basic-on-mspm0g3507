@@ -4,7 +4,9 @@
 
 题目为16年的Ti杯控制题。
 
-![alt text](image.png)
+![alt text](赛道.png)
+
+![alt text](小车.png)
 
 ## 文件配置教程
 
